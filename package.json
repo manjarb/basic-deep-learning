@@ -1,0 +1,23 @@
+{
+  "name": "basic-deep-learning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manjarb/basic-deep-learning.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manjarb/basic-deep-learning/issues"
+  },
+  "homepage": "https://github.com/manjarb/basic-deep-learning#readme",
+  "dependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
